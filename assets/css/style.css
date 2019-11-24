@@ -10,6 +10,10 @@ h1 {
     font-weight: normal;
 }
 
+span {
+    color: #f00;
+}
+
 .container {
     max-width: 400px;
     margin: 0 auto;
